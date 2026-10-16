@@ -4,7 +4,7 @@
 
 **기술**: Python(pandas, scikit-learn, statsmodels, matplotlib) · PostgreSQL(CTE, 윈도 함수) · Jupyter
 
-📄 **최종 보고 덱**: [`reports/최종보고_카페2호점.pdf`]([reports/최종보고_카페2호점.pdf](https://drive.google.com/file/d/1WEL0MKA2sJos8YHkGlb53u34hwMyiLDU/view?usp=sharing))
+📄 **최종 보고 덱**: [`reports/최종보고_카페2호점.pdf`](https://drive.google.com/file/d/1WEL0MKA2sJos8YHkGlb53u34hwMyiLDU/view?usp=sharing))
 
 ## 결과
 
