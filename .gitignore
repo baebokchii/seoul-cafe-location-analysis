@@ -1,10 +1,10 @@
-# 비밀 정보
+# 환경 변수
 .env
 
-# 원자료(용량이 커서 올리지 않음, README의 출처에서 내려받기)
+# Raw Data
 /data/raw/
 
-# 전처리 중간 결과는 올리지 않고, 추천·예측 결과만 올린다
+# Data
 /data/processed/*
 !/data/processed/추천_*.csv
 !/data/processed/예측_*.csv
@@ -12,3 +12,6 @@
 # macOS / Jupyter
 .DS_Store
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
