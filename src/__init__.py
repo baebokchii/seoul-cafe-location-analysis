@@ -1,1 +1,1 @@
-"""Shared helpers for the analysis notebooks."""
+"""분석 노트북에서 함께 쓰는 도우미 함수."""

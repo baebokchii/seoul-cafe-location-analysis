@@ -1,16 +1,17 @@
 # 환경 변수
 .env
 
-# Raw Data
+# 원자료
 /data/raw/
 
-# Data
+# 데이터
 /data/processed/*
 !/data/processed/추천_*.csv
 !/data/processed/예측_*.csv
 
 # macOS / Jupyter
 .DS_Store
+.vscode
 .ipynb_checkpoints/
 
 # Python
