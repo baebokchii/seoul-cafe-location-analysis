@@ -13,5 +13,5 @@
 __pycache__/
 
 # Others
-.json
-.pptx
+*.json
+*.pptx
