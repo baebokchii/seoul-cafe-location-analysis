@@ -1,6 +1,9 @@
-pandas>=2.2
-matplotlib>=3.10
-SQLAlchemy>=2.0
-psycopg2-binary>=2.9
-python-dotenv>=1.0
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+sqlalchemy
+psycopg2-binary
+python-dotenv
 jupyter
