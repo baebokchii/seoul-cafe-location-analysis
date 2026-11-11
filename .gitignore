@@ -11,3 +11,7 @@
 
 # Python
 __pycache__/
+
+# Others
+.json
+.pptx
